@@ -1,0 +1,4 @@
+E:\Projects\.NET\Course\Course\obj\Debug\netcoreapp3.1\CourseEFCore.csprojAssemblyReference.cache
+E:\Projects\.NET\Course\Course\obj\Debug\netcoreapp3.1\CourseEFCore.AssemblyInfoInputs.cache
+E:\Projects\.NET\Course\Course\obj\Debug\netcoreapp3.1\CourseEFCore.AssemblyInfo.cs
+E:\Projects\.NET\Course\Course\obj\Debug\netcoreapp3.1\CourseEFCore.csproj.CoreCompileInputs.cache
